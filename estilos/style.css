@@ -1,0 +1,45 @@
+html{
+    font-size: 40 px
+    
+}
+
+h1 {
+    color:darkgoldenrod;
+    font-size:80px;
+    text-align: center;
+    font-family:  Comic Sans MS;
+     
+}
+
+h4{
+    text-align: center
+}
+
+p{
+    font-size:45px;
+    
+    
+}
+
+p,li{
+    font-size: 18px;
+    color:black;
+    text-align: left;
+}
+
+
+img {
+    width: 30%;
+    height: auto;
+    margin: 0 auto; /* centraliza a imagem */
+    display: block;
+    border: 2px solid darkgoldenrod 
+}
+
+body{
+
+    background-image: "https://www.atomicpapers.com.br/web/wallpapers/estrada-floresta/thumbnail/lg.jpg";
+    border:1px solid black;
+   
+    
+}
